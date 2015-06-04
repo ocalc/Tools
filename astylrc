@@ -1,0 +1,1 @@
+--style=google --max-code-length=80 --break-after-logical --indent=spaces=2 --delete-empty-lines --pad-oper --pad-header --unpad-paren
